@@ -1135,22 +1135,22 @@ const SmartWaterMonitoring = () => {
             <div className="grid grid-cols-2 gap-6">
               <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl">
                 <div className="text-3xl mb-3">🏆</div>
-                <h4 className="font-semibold mb-2">Industry Leader</h4>
+                <h4 className="font-semibold mb-2 text-black">Industry Leader</h4>
                 <p className="text-sm text-gray-600">Recognized leader in water quality monitoring technology</p>
               </div>
               <div className="bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-xl">
                 <div className="text-3xl mb-3">🌍</div>
-                <h4 className="font-semibold mb-2">Global Deployment</h4>
+                <h4 className="font-semibold mb-2 text-black">Global Deployment</h4>
                 <p className="text-sm text-gray-600">Monitoring water systems in 75+ countries</p>
               </div>
               <div className="bg-gradient-to-br from-purple-50 to-purple-100 p-6 rounded-xl">
                 <div className="text-3xl mb-3">⚡</div>
-                <h4 className="font-semibold mb-2">Real-Time Processing</h4>
+                <h4 className="font-semibold mb-2 text-black">Real-Time Processing</h4>
                 <p className="text-sm text-gray-600">Analyzing millions of water quality readings daily</p>
               </div>
               <div className="bg-gradient-to-br from-cyan-50 to-cyan-100 p-6 rounded-xl">
                 <div className="text-3xl mb-3">🔒</div>
-                <h4 className="font-semibold mb-2">Regulatory Compliance</h4>
+                <h4 className="font-semibold mb-2 text-black">Regulatory Compliance</h4>
                 <p className="text-sm text-gray-600">Meets EPA, WHO, and international water standards</p>
               </div>
             </div>
